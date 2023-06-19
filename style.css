@@ -95,6 +95,10 @@ nav img{
                 background: #f44336;
 }
 
+@media (max-width: 700px)  {
+       .text-box h1{font-size: 20px;}
+}
+
 /*----Course----*/
 
 .course {
